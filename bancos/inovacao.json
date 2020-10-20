@@ -1,0 +1,824 @@
+[
+    {
+        "nome": "tabela-7_1-extracao.csv",
+        "titulo": "Brasil: Percentual de empresas que implementaram inovações de produto e/ou processo, segundo as atividades selecionadas da indústria, do setor de eletricidade e gás e dos serviços, 2000/2014",
+        "subtitulo": "",
+        "descricao": "",
+        "fontededados": "http://antigo.mctic.gov.br/mctic/opencms/indicadores/indicadores_cti.html",
+        "notasrodape": [],
+        "variaveis": [
+            [
+                "Ano",
+                "Ano",
+                "Ano",
+                []
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Produto ou processo - Taxa de Inovacao",
+                "Atividades selecionadas da indústria e dos serviços Total Produto ou processo - Taxa de Inovação",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Produto ou processo - Taxa de Inovação",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Produto",
+                "Atividades selecionadas da indústria e dos serviços Total Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Produto",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Processo",
+                "Atividades selecionadas da indústria e dos serviços Total Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Produto ou processo - Taxa de Inovacao",
+                "Atividades selecionadas da indústria e dos serviços Indústria Produto ou processo - Taxa de Inovação",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Produto ou processo - Taxa de Inovação",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Produto",
+                "Atividades selecionadas da indústria e dos serviços Indústria Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Produto",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Processo",
+                "Atividades selecionadas da indústria e dos serviços Indústria Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Processo",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Produto ou processo - Taxa de Inovacao",
+                "Atividades selecionadas da indústria e dos serviços Serviços Produto ou processo - Taxa de Inovação",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Produto ou processo - Taxa de Inovação",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Produto",
+                "Atividades selecionadas da indústria e dos serviços Serviços Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Produto",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Processo",
+                "Atividades selecionadas da indústria e dos serviços Serviços Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Produto ou processo - Taxa de Inovacao",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Produto ou processo - Taxa de Inovação",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Produto ou processo - Taxa de Inovação",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Produto",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Produto",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Processo",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Processo",
+                [
+                    "(1)"
+                ]
+            ]
+        ],
+        "conteudo": [
+            [
+                2000.0,
+                NaN,
+                NaN,
+                NaN,
+                31.5,
+                17.6,
+                25.2,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2003.0,
+                NaN,
+                NaN,
+                NaN,
+                33.3,
+                20.3,
+                26.9,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2005.0,
+                34.4,
+                20.6,
+                27.6,
+                33.4,
+                19.5,
+                26.9,
+                56.9,
+                44.4,
+                41.8,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2008.0,
+                38.6,
+                23.7,
+                32.1,
+                38.1,
+                22.8,
+                32.1,
+                46.5,
+                37.7,
+                31.3,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2011.0,
+                35.7,
+                18.1,
+                31.7,
+                35.6,
+                17.3,
+                31.7,
+                36.8,
+                27.1,
+                31.5,
+                44.1,
+                2.2,
+                43.7
+            ],
+            [
+                2014.0,
+                36.0,
+                18.5,
+                32.1,
+                36.4,
+                18.3,
+                32.7,
+                32.4,
+                20.6,
+                27.7,
+                29.2,
+                7.2,
+                29.0
+            ]
+        ]
+    },
+    {
+        "nome": "tabela-7_2-extracao.csv",
+        "titulo": "Brasil: Total de empresas e empresas que implementaram inovações de produto e/ou processo, segundo as atividades selecionadas da indústria, do setor de eletricidade e gás e dos serviços, 2000/2014",
+        "subtitulo": "",
+        "descricao": "",
+        "fontededados": "http://antigo.mctic.gov.br/mctic/opencms/indicadores/indicadores_cti.html",
+        "notasrodape": [],
+        "variaveis": [
+            [
+                "Ano",
+                "Ano",
+                "Ano",
+                []
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços Total Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Total de Empresas",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços Total Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Produto ou Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Produto",
+                "Atividades selecionadas da indústria e dos serviços Total Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Produto",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total_Processo",
+                "Atividades selecionadas da indústria e dos serviços Total Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total_Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços Indústria Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Total de Empresas",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços Indústria Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Produto ou Processo",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Produto",
+                "Atividades selecionadas da indústria e dos serviços Indústria Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Produto",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria_Processo",
+                "Atividades selecionadas da indústria e dos serviços Indústria Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)_Processo",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços Serviços Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Total de Empresas",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços Serviços Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Produto ou Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Produto",
+                "Atividades selecionadas da indústria e dos serviços Serviços Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Produto",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos_Processo",
+                "Atividades selecionadas da indústria e dos serviços Serviços Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços_Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Total de Empresas",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Total de Empresas",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Produto ou Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Produto ou Processo",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Produto",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Produto",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Produto",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas_Processo",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás Processo",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás_Processo",
+                [
+                    "(1)"
+                ]
+            ]
+        ],
+        "conteudo": [
+            [
+                2000.0,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                72005.0,
+                22698.0,
+                12658.0,
+                18.16,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2003.0,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                84262.0,
+                28.036,
+                17146.0,
+                22658.0,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2005.0,
+                95301.0,
+                32796.0,
+                19670.0,
+                26277.0,
+                91054.0,
+                30378.0,
+                17.784000000000006,
+                24504.0,
+                4246.0,
+                2418.0,
+                1886.0,
+                1773.0,
+                NaN,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2008.0,
+                106862.0,
+                41262.0,
+                25365.0,
+                34255.0,
+                100.496,
+                38299.0,
+                22963.0,
+                32264.0,
+                6366.0,
+                2963.0,
+                2402.0,
+                1991.0,
+                NaN,
+                NaN,
+                NaN,
+                NaN
+            ],
+            [
+                2011.0,
+                128699.0,
+                45950.0,
+                23282.0,
+                40802.0,
+                116633.0,
+                41.47,
+                20135.0,
+                36.94300000000001,
+                11564.0,
+                4258.0,
+                3136.0,
+                3640.0,
+                503.0,
+                222.0,
+                11.0,
+                220.0
+            ],
+            [
+                2014.0,
+                132529.0,
+                47693.0,
+                24498.0,
+                42572.0,
+                117976.0,
+                42.987,
+                21557.0,
+                38534.0,
+                14085.0,
+                4569.0,
+                2908.0,
+                3902.0,
+                468.0,
+                137.0,
+                34.0,
+                136.0
+            ]
+        ]
+    },
+    {
+        "nome": "tabela-7_3-extracao.csv",
+        "titulo": "Brasil: Percentual de empresas que implementaram inovações que receberam apoio do governo para as suas atividades inovativas, segundo as atividades selecionadas da indústria, do setor de eletricidade e gás e dos serviços, 2000/2014",
+        "subtitulo": "",
+        "descricao": "",
+        "fontededados": "http://antigo.mctic.gov.br/mctic/opencms/indicadores/indicadores_cti.html",
+        "notasrodape": [],
+        "variaveis": [
+            [
+                "Ano",
+                "Ano",
+                "Ano",
+                []
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total",
+                "Atividades selecionadas da indústria e dos serviços Total",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria",
+                "Atividades selecionadas da indústria e dos serviços Indústria",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos",
+                "Atividades selecionadas da indústria e dos serviços Serviços",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás",
+                [
+                    "(1)"
+                ]
+            ]
+        ],
+        "conteudo": [
+            [
+                2000.0,
+                NaN,
+                16.9,
+                NaN,
+                NaN
+            ],
+            [
+                2003.0,
+                NaN,
+                18.7,
+                NaN,
+                NaN
+            ],
+            [
+                2005.0,
+                18.8,
+                19.2,
+                14.5,
+                NaN
+            ],
+            [
+                2008.0,
+                22.3,
+                22.8,
+                16.3,
+                NaN
+            ],
+            [
+                2011.0,
+                34.2,
+                34.6,
+                30.0,
+                27.9
+            ],
+            [
+                2014.0,
+                39.9,
+                40.4,
+                37.1,
+                35.7
+            ]
+        ]
+    },
+    {
+        "nome": "tabela-7_4-extracao.csv",
+        "titulo": "Brasil: Dispêndios realizados nas atividades inovativas de empresas que implementaram inovações, segundo as atividades selecionadas da indústria, do setor de eletricidade e gás e dos serviços, 2000/2014",
+        "subtitulo": "",
+        "descricao": "",
+        "fontededados": "http://antigo.mctic.gov.br/mctic/opencms/indicadores/indicadores_cti.html",
+        "notasrodape": [],
+        "variaveis": [
+            [
+                "Ano",
+                "Ano",
+                "Ano",
+                []
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total",
+                "Atividades selecionadas da indústria e dos serviços Total",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria",
+                "Atividades selecionadas da indústria e dos serviços Indústria",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos",
+                "Atividades selecionadas da indústria e dos serviços Serviços",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás",
+                [
+                    "(1)"
+                ]
+            ]
+        ],
+        "conteudo": [
+            [
+                2000.0,
+                NaN,
+                22343.8,
+                NaN,
+                NaN
+            ],
+            [
+                2003.0,
+                NaN,
+                23419.2,
+                NaN,
+                NaN
+            ],
+            [
+                2005.0,
+                41289.2,
+                34406.0,
+                6883.2,
+                NaN
+            ],
+            [
+                2008.0,
+                54103.6,
+                43727.5,
+                10376.2,
+                NaN
+            ],
+            [
+                2011.0,
+                64863.7,
+                50893.4,
+                12195.7,
+                1774.7
+            ],
+            [
+                2014.0,
+                81491.6,
+                57638.3,
+                22691.9,
+                1161.4
+            ]
+        ]
+    },
+    {
+        "nome": "tabela-7_5-extracao.csv",
+        "titulo": "Brasil: Empresas que implementaram inovações com relações de cooperação com outras organizações,  segundo as atividades selecionadas da indústria, do setor de eletricidade e gás e dos serviços, 2000/2014",
+        "subtitulo": "",
+        "descricao": "",
+        "fontededados": "http://antigo.mctic.gov.br/mctic/opencms/indicadores/indicadores_cti.html",
+        "notasrodape": [],
+        "variaveis": [
+            [
+                "Ano",
+                "Ano",
+                "Ano",
+                []
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Total",
+                "Atividades selecionadas da indústria e dos serviços Total",
+                "Atividades selecionadas da indústria e dos serviços(1)_Total",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Industria",
+                "Atividades selecionadas da indústria e dos serviços Indústria",
+                "Atividades selecionadas da indústria e dos serviços(1)_Indústria(2)",
+                [
+                    "(1)",
+                    "(2)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Servicos",
+                "Atividades selecionadas da indústria e dos serviços Serviços",
+                "Atividades selecionadas da indústria e dos serviços(1)_Serviços",
+                [
+                    "(1)"
+                ]
+            ],
+            [
+                "Atividades selecionadas da industria e dos servicos_Eletricidade e Gas",
+                "Atividades selecionadas da indústria e dos serviços Eletricidade e Gás",
+                "Atividades selecionadas da indústria e dos serviços(1)_Eletricidade e Gás",
+                [
+                    "(1)"
+                ]
+            ]
+        ],
+        "conteudo": [
+            [
+                2000.0,
+                NaN,
+                2505.0,
+                NaN,
+                NaN
+            ],
+            [
+                2003.0,
+                NaN,
+                1053.0,
+                NaN,
+                NaN
+            ],
+            [
+                2005.0,
+                2776.0,
+                2194.0,
+                582.0,
+                NaN
+            ],
+            [
+                2008.0,
+                4285.0,
+                3865.0,
+                419.0,
+                NaN
+            ],
+            [
+                2011.0,
+                7694.0,
+                6598.0,
+                1013.0,
+                82.0
+            ],
+            [
+                2014.0,
+                7300.0,
+                6148.0,
+                1077.0,
+                75.0
+            ]
+        ]
+    },
+    {
+        "nome": "tabela-7_6-extracao.csv",
+        "titulo": "Número e Percentual de Empresas Industriais que fazem P&D contínuo, 2000/2014",
+        "subtitulo": "",
+        "descricao": "",
+        "fontededados": "http://antigo.mctic.gov.br/mctic/opencms/indicadores/indicadores_cti.html",
+        "notasrodape": [],
+        "variaveis": [
+            [
+                "Ano",
+                "Ano",
+                "Ano",
+                []
+            ],
+            [
+                "Total de Empresas",
+                "Total de Empresas",
+                "Total de Empresas",
+                []
+            ],
+            [
+                "Com atividades continuas de P&D interno",
+                "Com atividades contínuas de P&D interno",
+                "Com atividades contínuas de P&D interno",
+                []
+            ],
+            [
+                "Percentual",
+                "Percentual",
+                "%",
+                []
+            ]
+        ],
+        "conteudo": [
+            [
+                2000.0,
+                72006.0,
+                3178.0,
+                4.4
+            ],
+            [
+                2003.0,
+                84262.0,
+                2432.0,
+                2.9
+            ],
+            [
+                2005.0,
+                91054.0,
+                2770.0,
+                3.0
+            ],
+            [
+                2008.0,
+                100496.0,
+                3019.0,
+                3.0
+            ],
+            [
+                2011.0,
+                116632.0,
+                4291.0,
+                3.7
+            ],
+            [
+                2014.0,
+                117976.0,
+                4289.0,
+                3.6
+            ]
+        ]
+    }
+]
